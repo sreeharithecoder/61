@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+}
+h1{
+    font-size:40px;
+    font-weight:300;
+}
+.b{
+    height:6px;
+    background-color:red;
+    width:70px;
+    margin:8px auto;
+}
+#a{
+    background-color:cyan;
+}
+#c{
+    background-color:darkgreen;
+}
